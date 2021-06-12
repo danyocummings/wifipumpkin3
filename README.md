@@ -31,7 +31,7 @@
 - RestFulAPI 
 - and **more**!
 
-### Donation
+### Donation:
 
 ##### Patreon:
 
@@ -68,7 +68,7 @@ Learn more about using [wp3 on the official site!](https://wifipumpkin3.github.i
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for how to help out.
 
-## community
+## Community
 on discord: https://discord.gg/jywYskR
 
 ## License
